@@ -95,12 +95,12 @@ def start_game(best_score = 6):
         
         elif too_low:
             time.sleep(1.5)#creates the effect of anticipation
-            print("It's Too Low")
+            print("It's higher")
             continue
             
         elif too_high:
             time.sleep(1.5) #creates the effect of anticipation
-            print("It's Too High")
+            print("It's lower")
             continue
             
 if __name__ == '__main__':
