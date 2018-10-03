@@ -21,17 +21,17 @@ Best score so far: 4 Attempt(s)
 Press 'ENTER' to start the game                                                                  
 LET THE GAME BEGINS!                                                                             
 Please enter a numerical value between 0 to 99: 45                                               
-It's lower                                                                                     
+It's higher                                                                                     
 Please enter a numerical value between 0 to 99: 75                                               
-It's higher                                                                                    
+It's lower                                                                                    
 Please enter a numerical value between 0 to 99: 63                                               
-It's lower                       
+It's higher                       
 Please enter a numerical value between 0 to 99: 72                                               
-It's lower                                                                                     
+It's higher                                                                                     
 Please enter a numerical value between 0 to 99: 76                                               
-It's higher                                                                                    
+It's lower                                                                                    
 Please enter a numerical value between 0 to 99: 75                                               
-It's higher                                                                                    
+It's lower                                                                                    
 Please enter a numerical value between 0 to 99: 74                                               
 CONGRATULATIONS!! 74 is the CORRECT Guess!!                                                      
 Your total attempts: 8                                                                           
