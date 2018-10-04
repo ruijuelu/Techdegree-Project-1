@@ -27,7 +27,7 @@ def start_game(best_score = 6):
     time.sleep(1) #provide a brief waiting time for player before the next set of instructions 
     print("LET THE GAME BEGINS!")
     #https://docs.python.org/2/library/random.html
-    random_number = random.randrange(1,99)  
+    random_number = random.randrange(1,100)  
     
     attempts = 0 #number of tries starts from 0
     
