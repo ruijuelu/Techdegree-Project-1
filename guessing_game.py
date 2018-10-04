@@ -83,7 +83,7 @@ def start_game(best_score = 6):
                 start_game(best_score)
                 
             else:
-                time.sleep(2) #create an effect to suggest closure, set at 2 sec as to need to create anticipation (player is discontinuing the game) 
+                time.sleep(2) #create an effect to suggest closure, set at 2 sec for pause effect (signifying to player that system is discontinuing the game) 
                 print("""
                 /////////////////////
                 //// !GAME OVER! ////
